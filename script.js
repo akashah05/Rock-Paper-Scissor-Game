@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 const rockBtn = document.querySelector("#btn-one");
 const paperBtn = document.querySelector("#btn-two");
 const scissorBtn = document.querySelector("#btn-three");
@@ -91,5 +89,3 @@ paperBtn.addEventListener("click", () => {
 scissorBtn.addEventListener("click", () => {
     getHumanChoice("Scissor");
 });
-
->>>>>>> rps-ui
